@@ -2,6 +2,7 @@ $(function(){
 
   console.log('pfpfp')
   console.log('pipi')
+  console.log('lll')
 
   $('.winners__link').on('click', function(e){
 
