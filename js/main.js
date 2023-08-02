@@ -1,5 +1,7 @@
 $(function(){
 
+  console.log('pfpfp')
+
   $('.winners__link').on('click', function(e){
 
     e.preventDefault();
