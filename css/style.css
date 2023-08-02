@@ -6490,3 +6490,7 @@ body {
 .form__btn--entrance {
   margin-top: 40px !important;
 }
+
+.form__ppp {
+  margin-right: 10px;
+}
